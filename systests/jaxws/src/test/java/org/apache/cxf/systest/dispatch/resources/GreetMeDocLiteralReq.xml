@@ -23,4 +23,3 @@
             <ns4:requestType>TestSOAPInputMessage</ns4:requestType>
         </ns4:greetMe>
     </SOAP-ENV:Body>
-</SOAP-ENV:Envelope>
